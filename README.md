@@ -1,4 +1,4 @@
-## Oi eu sou a Mario Henrique, desenvolvedor frontend!
+## Oi eu sou o Mario Henrique, desenvolvedor frontend!
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Mh-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
