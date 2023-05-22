@@ -13,9 +13,15 @@
   ##
   
 <div align="center"><br>
-  <img  alt="" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mario-hs&theme=dark&layout=compact&langs_count=8">
-  <img alt="" height="180em" src="https://github-readme-stats.vercel.app/api?username=mario-hs&show_icons=true&theme=dark">
+ <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mario-hs&theme=dark&layout=compact&langs_count=6" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=mario-hs&theme=dark" />
+</a>
 </div>
+
+
 
   ##
  
