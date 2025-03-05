@@ -1,4 +1,4 @@
-## Ei, me chamo Mario e sou desenvolvedor frontend!
+## Ei, sou Mario Henrique, desenvolvedor fullstack!
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Mh-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -9,22 +9,8 @@
   <img align="center" alt="Mh-Nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Mh-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
-  
-  ##
-  
-<div align="center"><br>
- <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mario-hs&theme=dark&layout=compact&langs_count=6" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=mario-hs&theme=dark" />
-</a>
-</div>
 
-
-
-  ##
- 
+##
 <div> 
   <a href="https://www.linkedin.com/in/mario-hs/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:mario.hps41@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
